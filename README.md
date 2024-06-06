@@ -1,1 +1,2 @@
 # eMISR
+Skupinový projekt z predmetu PSI, ktorý sa zaoberal problematikou tvorby rozsiahlych softvérových systémov. Náš projekt sa zameriaval na tvrbu **fiktívnej** user-friendly webovej aplikácie ktorá by bola vyvýjaná v spolupráci s ministerstvom vnútra. Cieľom tejto aplikácie je zjednodušiť preoces registrovania pre rôzne oficiálne dokumenty (občianske preukazy, pasy, vodičské preukazy...). Modelovanie zahŕňalo všetky etapy životného cyklu tvorby softvéru, v programe Enterprise Architect.
